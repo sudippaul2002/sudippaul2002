@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sudippaul2002.github.io/#/](https://sudippaul2002.github.io/#/)
 
-- 📝 I regularly write articles on [https://blogmastersudip.blogspot.com/](https://blogmastersudip.blogspot.com/)
+- 📝 I also write some articles on [https://blogmastersudip.blogspot.com/](https://blogmastersudip.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
