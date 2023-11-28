@@ -12,10 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sudip-paul-aa688b25a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/s_u_d_i_p_p_a_u_l_0_2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="s_u_d_i_p_p_a_u_l_0_2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@learnwithlerner" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1480px-YouTube_full-color_icon_%282017%29.svg.png" height="30" width="40" /></a>
-<a href="https://blogmastersudip.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudip-paul-aa688b25a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="ashutosh mishra" height="30" width="30" /></a>
+<a href="https://instagram.com/s_u_d_i_p_p_a_u_l_0_2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="s_u_d_i_p_p_a_u_l_0_2" height="30" width="30" /></a>
+<a href="https://www.youtube.com/@learnwithlerner" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1480px-YouTube_full-color_icon_%282017%29.svg.png" height="30" width="40" /></a><a href="https://blogmastersudip.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
