@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sudip-paul-aa688b25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/s_u_d_i_p_p_a_u_l_0_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_d_i_p_p_a_u_l_0_2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@learnwithlerner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclrxr4dwqdak-pkskj0vg8w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@learnwithlerner" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1480px-YouTube_full-color_icon_%282017%29.svg.png" height="30" width="40" /></a>
 <a href="https://blogmastersudip.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" height="30" width="40" /></a>
 </p>
 
