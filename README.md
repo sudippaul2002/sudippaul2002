@@ -1,4 +1,4 @@
-![logo]([https://github.com/sudippaul2002/uploaded_photo/blob/main/cover-photo.gif](https://drive.google.com/file/d/1OsnDBs1jIGFIwCk8Vg7YsG5-MIMsC7N_/view?usp=drive_link))
+![logo](https://drive.google.com/file/d/1OsnDBs1jIGFIwCk8Vg7YsG5-MIMsC7N_/view?usp=drive_link)
 <h1 align="center">Hi 👋, I am Sudip Paul</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" alt="coding" width="450"  src="https://github.com/sudippaul2002/sudippaul200/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
